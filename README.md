@@ -25,14 +25,6 @@
 
 ###
 
-<div align="center">
-  <a href="https://github.com/mafaqatiq" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="GitHub logo" />
-  </a>
-  <a href="https://www.linkedin.com/in/muhammad-afaq-3b8820224/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn logo" />
-  </a>
-</div>
 
 ###
 
